@@ -17,5 +17,14 @@ public class Main {
 
 
 
+        var workingHours = 640;
+        var employeesWorkingHours = 8;
+
+        var totalEmployees = workingHours / employeesWorkingHours;
+        System.out.println("Всего работников в компании " + totalEmployees + " Человек");
+
+        totalEmployees = totalEmployees + 94;
+        var ifTotalEmployees = workingHours / totalEmployees;
+        System.out.println("Если в компании работает " + totalEmployees + " человек, то всего по " + ifTotalEmployees + " часов работы может быть поделено между сотрудниками");
     }
 }

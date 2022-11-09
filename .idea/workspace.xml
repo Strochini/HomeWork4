@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0c7df35-9f07-4296-ab17-68e16da37922" name="Changes" comment="HW4 Source">
+    <list default="true" id="e0c7df35-9f07-4296-ab17-68e16da37922" name="Changes" comment="HW4 1 lesson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667951773762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW4 1 lesson">
+      <created>1667953499769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667953499769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW4 Source" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4 Source" />
+    <MESSAGE value="HW4 1 lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW4 1 lesson" />
   </component>
 </project>
